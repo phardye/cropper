@@ -508,7 +508,7 @@ A shortcut of the "zoom" event.
 
 
 
-## Methods
+## Methods32
 
 As there is an **asynchronous** process when load the image, you **should call most of the methods after ready**, except "setAspectRatio", "replace" and "destroy".
 
